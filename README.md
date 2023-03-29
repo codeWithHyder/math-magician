@@ -39,7 +39,7 @@
 
 # 📖 [Math-magician] <a name="about-project"></a>
 
-**[Math-magician]** is a web app. for learning React js,
+**[Math-magician]** is a web app. for learning React js, besides other features,
 and it is a simple app that will be used to perform mathematical calculations.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -143,7 +143,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Will be web app with features]**
+- [ ] **[Will be a fully functional web app.]**
 - [ ] **[]**
 - [ ] **[]**
 
