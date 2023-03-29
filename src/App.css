@@ -24,10 +24,10 @@
   color: whitesmoke;
 }
 
-.calculator-panel  {
+.calculator-panel {
   display: grid;
-  grid-template-columns:25% 25% 25% 25%;
-  grid-template-rows:4.2rem;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: 4.2rem;
   background-color: rgb(168, 150, 185);
   row-gap: 0.2rem;
   font-size: 2rem;
