@@ -143,7 +143,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Will be a fully functional web app.]**
+- [ ] **[fully functional mathematical calculator]**
 - [ ] **[]**
 - [ ] **[]**
 
