@@ -64,7 +64,7 @@ and it is a simple app that will be used to perform mathematical calculations.
 - **[html]**
 - **[css]**
 - **[REACT]**
-- **[]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,7 +72,7 @@ and it is a simple app that will be used to perform mathematical calculations.
 
 ## 🚀 Live Demo<a name="live-demo"></a>
 
-- [Live Demo Link]()
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,9 +143,9 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[fully functional mathematical calculator]**
-- [ ] **[]**
-- [ ] **[]**
+-  **[fully functional mathematical calculator]**
+-  **[Fetch Data from External API]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
