@@ -46,6 +46,7 @@ function Calculator() {
       <div className="calculator-panel">
         {['0', '.', '='].map((label) => renderButton(label))}
       </div>
+
     </div>
   );
 }
