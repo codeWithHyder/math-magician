@@ -72,7 +72,7 @@ and it is a simple app that will be used to perform mathematical calculations.
 
 ## 🚀 Live Demo<a name="live-demo"></a>
 
-- [N/A]()
+- N/A
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
