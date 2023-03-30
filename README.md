@@ -70,7 +70,7 @@ and it is a simple app that will be used to perform mathematical calculations.
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo<a name="live-demo">N/A</a>
+## 🚀 Live Demo<a name="live-demo"></a>
 
 - [N/A]()
 
