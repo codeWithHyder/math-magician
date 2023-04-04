@@ -73,7 +73,7 @@ and it is a simple app that will be used to perform mathematical calculations,di
 
 ## 🚀 Live Demo<a name="live-demo"></a>
 
-- [live demo link](will be coming after final approval)
+- [live demo link](https://codewithhyder.github.io/math-magician/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
