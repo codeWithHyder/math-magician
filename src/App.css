@@ -4,10 +4,39 @@
   box-sizing: border-box;
 }
 
+.header {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  background-color: rgb(94, 214, 198);
+  height: 5rem;
+  align-items: center;
+  padding: 0.5rem;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  margin-left: 40rem;
+}
+
+.navlink {
+  margin-left: 1rem;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.cal-main-container {
+  display: grid;
+  grid-template-columns: 30% 70%;
+  align-items: start;
+  margin-left: 2rem;
+}
+
 .quotes {
   width: 50%;
   margin-left: 10%;
-  margin-top: 0.5rem;
+  margin-top: 4rem;
+  font-size: 2rem;
 }
 
 .app-container {
@@ -41,4 +70,11 @@
 
 .calculator-panel .wide {
   grid-column: 1 / span 2;
+}
+
+.homecontainer {
+  width: 80%;
+  padding: 2rem;
+  font-size: larger;
+  justify-content: space-evenly;
 }

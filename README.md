@@ -3,8 +3,8 @@
 <a name="readme-top"></a>
 
 <div align="center">
- <h3><b>Math-magician is a web app for learning React and webpack
- and it is a simple App that will be used to perform mathematical calcultions.</b></h3>
+ <h3><b>Math-magician is a web app for learning React , webpack, css in React
+ and it is a simple App that will be used to perform mathematical calcultions, display quotes from the API and a welcome section of the web app</b></h3>
 
 </div>
 
@@ -40,7 +40,7 @@
 # 📖 [Math-magician] <a name="about-project"></a>
 
 **[Math-magician]** is a web app. for learning React js, besides other features,
-and it is a simple app that will be used to perform mathematical calculations.
+and it is a simple app that will be used to perform mathematical calculations,display quotes randomly from the API and welcome home section.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -53,7 +53,7 @@ and it is a simple app that will be used to perform mathematical calculations.
     <li>HTML</li>
     <li>CSS</li>
     <li>REACT</li>
-    <li></li>
+    <li>React Route</li>
   </ul>
 </details>
 
@@ -64,6 +64,7 @@ and it is a simple app that will be used to perform mathematical calculations.
 - **[html]**
 - **[css]**
 - **[REACT]**
+- **[REACT Route]**
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -72,7 +73,7 @@ and it is a simple app that will be used to perform mathematical calculations.
 
 ## 🚀 Live Demo<a name="live-demo"></a>
 
-- N/A
+- [live demo link](will be coming after final approval)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,8 +135,8 @@ You can deploy this project using:
 ## 👤 Ghulam Hyder Dar
 
 - GitHub: [@codeWithHyder](https://github.com/codeWithHyder)
-- Twitter: [@Hyder](https://twitter.com/@hyder3512)
-- LinkedIn: [Hyder](https://www.linkedin.com/in/ghulam-hyder-dar-165653206/)
+- Twitter: [@Twitter](https://twitter.com/@hyder3512)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/ghulam-hyder-dar-165653206/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -143,6 +144,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
+-  **[Fully functional Web App with menubar ,React Route used ]**
 -  **[fully functional mathematical calculator]**
 -  **[Fetch Data from External API]**
 
@@ -173,7 +175,7 @@ If you like this project, Please give me ⭐️ and you can use it following [MI
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would be very  thankful and appreciate who contributes this project.
+I would be very  thankful and appreciate anyone who contributes this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
