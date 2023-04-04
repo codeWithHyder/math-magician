@@ -28,26 +28,31 @@ function Calculator() {
   );
 
   return (
-    <div className="app-container">
-      <input type="text" id="calsc" className="calsc" value={displayValue} readOnly />
+    <div className="cal-main-container">
+      <h2>Let us do some Math!</h2>
+      <div className="app-container">
+        <input type="text" id="calsc" className="calsc" value={displayValue} readOnly />
 
-      <div className="calculator-panel">
-        {['AC', '+/-', '%', '÷'].map((label) => renderButton(label))}
-      </div>
-      <div className="calculator-panel">
-        {['7', '8', '9', 'x'].map((label) => renderButton(label))}
-      </div>
-      <div className="calculator-panel">
-        {['4', '5', '6', '-'].map((label) => renderButton(label))}
-      </div>
-      <div className="calculator-panel">
-        {['1', '2', '3', '+'].map((label) => renderButton(label))}
-      </div>
-      <div className="calculator-panel">
-        {['0', '.', '='].map((label) => renderButton(label))}
+        <div className="calculator-panel">
+          {['AC', '+/-', '%', '÷'].map((label) => renderButton(label))}
+        </div>
+        <div className="calculator-panel">
+          {['7', '8', '9', 'x'].map((label) => renderButton(label))}
+        </div>
+        <div className="calculator-panel">
+          {['4', '5', '6', '-'].map((label) => renderButton(label))}
+        </div>
+        <div className="calculator-panel">
+          {['1', '2', '3', '+'].map((label) => renderButton(label))}
+        </div>
+        <div className="calculator-panel">
+          {['0', '.', '='].map((label) => renderButton(label))}
+        </div>
+
       </div>
 
     </div>
+
   );
 }
 
