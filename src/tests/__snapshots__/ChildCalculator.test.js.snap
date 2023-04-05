@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test button render 1`] = `
+<button
+  className="calculator-button "
+  type="button"
+>
+  1
+</button>
+`;

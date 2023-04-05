@@ -26,8 +26,10 @@ const Quotes = () => {
   if (isLoading) return <div>Loading...</div>;
   if (error) return <div>Something went wrong</div>;
   return (
-    <ul className="quotes">
-      {data && (
+    <>
+      <p id="par">hello</p>
+      <ul className="quotes" data-testid="quotes">
+        {data && (
         <p>
           {data.quote}
           {' '}
@@ -36,8 +38,9 @@ const Quotes = () => {
             {data.author}
           </span>
         </p>
-      )}
-    </ul>
+        )}
+      </ul>
+    </>
   );
 };
 
