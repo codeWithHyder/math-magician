@@ -5,9 +5,16 @@ import ChildCalculator from '../components/ChildCalculator';
 it('test button render', () => {
   const obj = ['1', '2', '3', '+'];
   const cName = 'calculator-button ';
-  const tree = renderer.create(<ChildCalculator label={obj[0]} handleClick={() => handleClick(obj[0])} />).toJSON();
+  const handleClick = () => { };
+  const tree = renderer.create(<ChildCalculator
+    label={obj[0]}
+    handleClick={() => handleClick(obj[0])}
+  />).toJSON();
 
-  render(<ChildCalculator label={obj[0]} handleClick={() => handleClick(obj[0])} />);
+  render(<ChildCalculator
+    label={obj[0]}
+    handleClick={() => handleClick(obj[0])}
+  />);
   const button = screen.getByRole('button');
   expect(button.innerHTML).toBe(obj[0]);
 

@@ -23,12 +23,12 @@ const Quotes = () => {
     fetchData();
   }, []);
 
-  if (isLoading) return <div>Loading...</div>;
+  if (isLoading) return <div data-testid="quotes">Loading...</div>;
   if (error) return <div>Something went wrong</div>;
   return (
     <>
-      <p id="par">hello</p>
-      <ul className="quotes" data-testid="quotes">
+
+      <ul className="quotes">
         {data && (
         <p>
           {data.quote}
