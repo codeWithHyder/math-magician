@@ -23,11 +23,13 @@ const Quotes = () => {
     fetchData();
   }, []);
 
-  if (isLoading) return <div>Loading...</div>;
+  if (isLoading) return <div data-testid="quotes">Loading...</div>;
   if (error) return <div>Something went wrong</div>;
   return (
-    <ul className="quotes">
-      {data && (
+    <>
+
+      <ul className="quotes">
+        {data && (
         <p>
           {data.quote}
           {' '}
@@ -36,8 +38,9 @@ const Quotes = () => {
             {data.author}
           </span>
         </p>
-      )}
-    </ul>
+        )}
+      </ul>
+    </>
   );
 };
 
